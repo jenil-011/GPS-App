@@ -52,6 +52,3 @@ Contributions are welcome! Please follow these steps:
 ## 🛡️ License
 This project is licensed under the [MIT License](LICENSE).
 
-## 📬 Contact
-For any queries, reach out at: [nutriboxfit123@gmail.com](mailto:nutriboxfit123@gmail.com)
-
